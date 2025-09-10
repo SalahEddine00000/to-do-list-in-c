@@ -95,14 +95,8 @@ Votre choix : show
 - Maximum of **100 tasks** (`MAX_TASKS = 100`)  
 - Maximum length of each task: **256 characters** (`MAX_TASK = 256`)  
 
----
-
-## ✨ Future Improvements
-- Add support for editing a task text  
-- Add search / filter functionality  
-- Use JSON or SQLite instead of plain text  
 
 ---
 
 ## 👨‍💻 Author
-Made with ❤️ in C.
+Made with slah eddine barri in C.
