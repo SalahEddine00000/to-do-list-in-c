@@ -99,4 +99,4 @@ Votre choix : show
 ---
 
 ## 👨‍💻 Author
-Made with slah eddine barri in C.
+Made by slah eddine barri in C.
